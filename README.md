@@ -1,6 +1,8 @@
 ![logo](./public/logo.png)
 
-<img src="./public/Setting.png" alt="描述" width="25%" />
+<p align="center">
+  <img src="./public/Setting.png" alt="Setting" width="90%" />
+</p>
 
 #《SCOTT:DISORDER ZONE》 世界观知识库
 
