@@ -4,7 +4,7 @@
   <img src="./public/Setting.png" alt="Setting" width="90%" />
 </p>
 
-# SCOTT 世界观知识库
+# SCOTT 世界观
 
 随缘更新
 
