@@ -7,6 +7,10 @@
   <strong>"懦夫，救不了罗摩卡"——<em>Laikasro·Wilson</em></strong>
 </blockquote>
 
+
+———————————————————————————————————————————————————————
+
+
 此仓库为《SCOTT:DISORDER ZONE》世界观知识库
 随缘更新
 
